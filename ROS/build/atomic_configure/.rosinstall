@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yuri/WorkSpace/ROS/arm/build/devel/setup.sh
